@@ -7,7 +7,7 @@ public class CameraController : MonoBehaviour {
 
 	private Vector3 offset;
 
-
+	/*
 	// Use this for initialization
 	void Start () {
 		offset = transform.position - player.transform.position;
@@ -17,6 +17,8 @@ public class CameraController : MonoBehaviour {
 	void LateUpdate () {
 		transform.position = player.transform.position + offset;
 	}
+	*/
+
 
 
 
