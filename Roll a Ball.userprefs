@@ -1,13 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LevelManager.cs">
     <Files>
       <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Rotator.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\VirtualJoyStick.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MainMenu.cs" Line="108" Column="43" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="34" Column="8" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="35" Column="48" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="22" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

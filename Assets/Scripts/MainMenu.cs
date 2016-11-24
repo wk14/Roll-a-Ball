@@ -101,7 +101,7 @@ public class MainMenu : MonoBehaviour {
 		else 
 		{
 			// when the player doesn't have the skin, decide to buy or not
-			int cost = 100;
+			int cost = 150;
 			if (GameManager.Instance.currency >= cost) 
 			{
 				GameManager.Instance.currency -= cost;
